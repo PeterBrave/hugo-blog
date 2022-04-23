@@ -62,7 +62,7 @@ googleAnalytics = "312465587"
   # FixIt 新增 | 0.2.4 是否在搜索索引中使用基于 baseURL 的绝对路径
   absoluteURL = false
   [params.search.algolia]
-    index = "44358d4860a665b56fd1ef41baf14671"
+    index = "new-index-1650706537"
     appID = "EBXP4IS3VN"
     searchKey = "44358d4860a665b56fd1ef41baf14671"
 
@@ -208,6 +208,17 @@ googleAnalytics = "312465587"
       id = "G-J8B2RCKZT5"
       # 是否匿名化用户 IP
       anonymizeIP = true
+
+# Busuanzi count since v0.2.12
+# 不蒜子统计 since v0.2.12
+[params.ibruce]
+  enable = true
+  # Enable in post meta
+  # 在文章中开启
+  enablePost = true
+  # Site creation time
+  # 网站创立时间
+  siteTime = '2022-04-23T16:15:22+08:00'
 
 # Hugo 解析文档的配置
 [markup]
