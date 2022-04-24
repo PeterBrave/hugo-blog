@@ -25,7 +25,7 @@ date: 2022-04-23T09:59:01+08:00
 
 # About Blog
 ## 更新说明
-- 2022.04.23 {{< version 0.2.10 >}} **基本功能上线**：发布文档、搜索、阅读量统计、gittalk接入等功能
+- 2022.04.23 {{< version 0.0.01 >}} **基本功能上线**：发布文档、搜索、阅读量统计、gittalk接入等功能
 
 {{< admonition quote "感谢" >}}
 _感谢 [FixIt](https://fixit.lruihao.cn/)提供的精美模板。_
